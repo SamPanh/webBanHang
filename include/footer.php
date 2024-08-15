@@ -55,7 +55,7 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">© 2021 Công ty vài thành viên Trường Đại Học Văn Lang
+			<p class="text-center text-white">© 2024 Công ty vài thành viên Trường Đại Học Văn Lang
 				<a href="http://gundam.com">Wesite Gundam</a>
 			</p>
 		</div>

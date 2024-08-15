@@ -39,7 +39,7 @@ CREATE TABLE `tbl_admin` (
 --
 
 INSERT INTO `tbl_admin` (`admin_id`, `email`, `password`, `admin_name`) VALUES
-(1, 'admin@gmail.com', '21232f297a57a5a743894a0e4a801fc3', 'Đình Duẩn');
+(1, 'admin@gmail.com', '21232f297a57a5a743894a0e4a801fc3', 'Phương Anh');
 
 -- --------------------------------------------------------
 
